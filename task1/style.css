@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Verdana, Helvetica;
+  font-size: 15pt;
+  background-color: #E6E6FA;
+  color: #333;
+}
+h1 {
+  color: #4B0082;
+  font-size: 26pt;
+  font-family: Arial, Verdana, Helvetica;
+  font-weight: 600;
+  text-align:center;
+}
+h2 {
+  text-align:center;
+}
+p {
+  text-align: justify;
+  margin-left: 30px;
+  margin-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  text-align:center;
+}
+IMG.main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+ul {
+  text-align:center;
+}
