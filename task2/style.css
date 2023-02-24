@@ -1,0 +1,73 @@
+header{
+  text-align: right;
+}
+body {
+  font-family: Arial, Verdana, Helvetica;
+  font-size: 15pt;
+  background-color: #E6E6FA;
+  color: #333;
+}
+h1 {
+  color: #4B0082;
+  font-size: 20pt;
+  font-family: Arial, Verdana, Helvetica;
+  font-weight: 600;
+  text-align:center;
+}
+h2 {
+  text-align:center;
+  font-size: 18px;
+  font-weight: 1000;
+  color: #333;
+}
+ul {
+  text-align: center;
+}
+IMG.main {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+footer{
+  text-align:center;
+}
+.short_description {
+  text-align: center;
+  color: #707070;
+  font-size: 16px;
+  font-style: italic;
+  line-height: 18px;
+}
+.detailed_description{
+  color: #484343;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.introduction{
+  text-align:center;
+}
+.specifications-list{
+  text-align:center;
+  font-size: 19px;
+  font-style: normal;
+  line-height: 25px;
+}
+.advantages{
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.shop {
+  text-align:center;
+}
+.button {
+    text-align: center;
+    display: inline-block;
+    vertical-align: baseline;
+    text-decoration: none;
+    text-transform: uppercasee;
+    display: block;
+    margin: auto;
+  }
